@@ -1,3 +1,12 @@
+'''
+Title     : Arrays
+Subdomain : NumPy
+Domain    : Python
+Author    : Asmit Singh
+Created   : 31 Dec 2022
+Problem   : https://www.hackerrank.com/challenges/np-arrays/problem
+'''
+
 import numpy
 
 def arrays(arr):
